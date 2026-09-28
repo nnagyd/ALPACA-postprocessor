@@ -21,7 +21,7 @@ pip install numpy pandas scipy
 Run the script using ParaView's Python interpreter:
 
 ```bash
-pvpython postprocess.py
+pvpython LS_postprocess.py
 ```
 
 ## Input Structure
@@ -39,7 +39,7 @@ case/
 ## Usage
 
 ```bash
-pvpython postprocess.py <inputfolder> <outputfolder> <frequency> <pressure_amplitude> <radius>
+pvpython LS_postprocess.py <inputfolder> <outputfolder> <frequency> <pressure_amplitude> <radius>
 ```
 
 ### Arguments
