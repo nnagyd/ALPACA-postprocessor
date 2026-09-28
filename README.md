@@ -53,7 +53,7 @@ pvpython LS_postprocess.py <inputfolder> <outputfolder> <frequency> <pressure_am
 ### Example
 
 ```bash
-pvpython postprocess.py \
+pvpython LS_postprocess.py \
     case    \
     results \
     100e3   \
